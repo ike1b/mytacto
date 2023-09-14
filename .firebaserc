@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mytacto": {
+      "hosting": {
+        "tic_tac_toe": [
+          "mytacto"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mytacto"
+  }
+}
